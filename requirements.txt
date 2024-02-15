@@ -1,2 +1,6 @@
 git+https://github.com/openai/whisper.git
 ffmpeg
+fastapi
+python-multipart
+uvicorn
+tempfile
